@@ -23,7 +23,8 @@ java -jar diit-1.5.jar
 
 You will now be met with the DIIT GUI. 
 
-image here
+![image](https://github.com/JoshuaHartz/How-to-DIIT/assets/102620766/df64b5d9-bab7-4d76-bd4c-35630cc0a6b4)
+
 
 
 
